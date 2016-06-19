@@ -7,9 +7,6 @@
     <Property Name="Precompile" Value="False" />
   </Properties>
   <BuildProducts>
-    <BuildProduct Path="$(ProjectDir)\Plugins\JSONQuery\Binaries\Win64\UE4Editor-JSONQuery.dll" Type="DynamicLibrary" />
-    <BuildProduct Path="$(ProjectDir)\Plugins\JSONQuery\Binaries\Win64\UE4Editor-JSONQuery.pdb" Type="SymbolFile" />
-    <BuildProduct Path="$(ProjectDir)\Plugins\JSONQuery\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-JSONQuery.lib" Type="ImportLibrary" />
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\UE4Editor-Veil.dll" Type="DynamicLibrary" />
     <BuildProduct Path="$(ProjectDir)\Binaries\Win64\UE4Editor-Veil.pdb" Type="SymbolFile" />
     <BuildProduct Path="$(ProjectDir)\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Veil.lib" Type="ImportLibrary" />
